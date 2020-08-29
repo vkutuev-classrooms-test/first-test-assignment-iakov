@@ -11,9 +11,9 @@
       "points": null
     },
     {
-      "name": "Test2",
+      "name": "Test4",
       "setup": "",
-      "run": "false",
+      "run": "true",
       "input": "",
       "output": "",
       "comparison": "included",
